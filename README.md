@@ -16,6 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slightlee&repo=springboot-demo&theme=dark)](https://github.com/slightlee/springboot-demo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slightlee&repo=cloud-demo)](https://github.com/slightlee/cloud-demo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slightlee&repo=platform-boot)](https://github.com/slightlee/platform-boot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slightlee&repo=layui-Template)](https://github.com/slightlee/layui-Template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slightlee&repo=cloud-demo&theme=dark)](https://github.com/slightlee/cloud-demo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slightlee&repo=platform-boot&theme=dark)](https://github.com/slightlee/platform-boot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slightlee&repo=layui-Template&theme=dark)](https://github.com/slightlee/layui-Template)
