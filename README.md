@@ -14,4 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slightlee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slightlee&repo=springboot-demo)](https://github.com/slightlee/springboot-demo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slightlee&repo=cloud-demo)](https://github.com/slightlee/cloud-demo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slightlee&repo=platform-boot)](https://github.com/slightlee/platform-boot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slightlee&repo=layui-Template)](https://github.com/slightlee/layui-Template)
