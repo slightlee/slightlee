@@ -25,10 +25,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <a href="https://github.com/slightlee">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=slightlee&show_icons=true&theme=dark" />
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=slightlee&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/slightlee">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slightlee&layout=compact" />
+  <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slightlee&layout=compact" />
 </a>
 
 Languages and Tools:
