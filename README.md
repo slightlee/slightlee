@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Docker](https://img.shields.io/badge/-Docker-1E90FF?style=flat&logo=docker&logoColor=snow)
-![Java](https://img.shields.io/badge/-JAVA-B0C4DE?style=flat&logo=java&logoColor=red)
+![Java](https://img.shields.io/badge/-JAVA-DCDCDC?style=flat&logo=java&logoColor=red)
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)
 
 <div align="center">
