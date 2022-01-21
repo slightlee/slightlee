@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
         <img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=slightlee&show_icons=truee&include_all_commits=true&theme=dark"/>
     </a>
     <a href="https://github.com/slightlee">
-        <img align="right" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slightlee&layout=compact&show_icons=truee&include_all_commits=true&theme=dark&card_width=350"/>
+        <img align="right" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slightlee&layout=compact&show_icons=truee&include_all_commits=true&theme=dark&card_width=400&card_height=195"/>
     </a>
 </div>
 
