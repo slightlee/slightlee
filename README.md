@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @slightlee
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -15,9 +14,14 @@ You can click the Preview link to take a look at your changes.
 <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=slightlee&theme=xcode" /></div>
 --->
 
-![Docker](https://img.shields.io/badge/-Docker-1E90FF?style=flat&logo=docker&logoColor=snow)
+- 👋 Hi, I’m slightlee,you can also call me mingtian
+
 ![Java](https://img.shields.io/badge/-JAVA-DCDCDC?style=flat&logo=java&logoColor=red)
+![Mysql](https://img.shields.io/badge/-Mysql-F08080?style=flat&logo=mysql&logoColor=blue)
+![Linux](https://img.shields.io/badge/Linux-DCDCDC?style=style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-1E90FF?style=flat&logo=docker&logoColor=snow)
+![Jenkins](https://img.shields.io/badge/Jenkins-6495ED?style=style=flat-square&logo=jenkins&logoColor=black)
 
 <div align="center">
     <a href="https://github.com/slightlee">
