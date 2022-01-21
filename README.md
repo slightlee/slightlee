@@ -11,10 +11,13 @@ You can click the Preview link to take a look at your changes.
 
 
 <!-- GitHub Activity Graph 每日提交记录-->
-
 <!---
 <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=slightlee&theme=xcode" /></div>
 --->
+
+![Docker](https://img.shields.io/badge/-Docker-1E90FF?style=flat&logo=docker&logoColor=snow)
+![Java](https://img.shields.io/badge/-JAVA-B0C4DE?style=flat&logo=java&logoColor=red)
+![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)
 
 <div align="center">
     <a href="https://github.com/slightlee">
