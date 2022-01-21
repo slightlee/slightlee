@@ -7,12 +7,14 @@
 <!---
 slightlee/slightlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
-<!-- GitHub Activity Graph -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=slightlee&theme=xcode" /></div>
-
 --->
 
+
+<!-- GitHub Activity Graph 每日提交记录-->
+
+<!---
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=slightlee&theme=xcode" /></div>
+--->
 
 <div align="center">
     <a href="https://github.com/slightlee">
