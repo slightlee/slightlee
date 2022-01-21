@@ -1,20 +1,5 @@
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-slightlee/slightlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-<!-- GitHub Activity Graph 每日提交记录-->
-<!---
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=slightlee&theme=xcode" /></div>
---->
-
-- 👋 Hi, I’m slightlee,you can also call me mingtian
+- 大家好，我是明天 
 
 ![Java](https://img.shields.io/badge/-JAVA-DCDCDC?style=flat&logo=java&logoColor=red)
 ![Mysql](https://img.shields.io/badge/-Mysql-F08080?style=flat&logo=mysql&logoColor=blue)
@@ -33,8 +18,15 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slightlee&repo=springboot-demo&theme=dark)](https://github.com/slightlee/springboot-demo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slightlee&repo=platform-boot&theme=dark)](https://github.com/slightlee/platform-boot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slightlee&repo=cloud-demo&theme=dark)](https://github.com/slightlee/cloud-demo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slightlee&repo=layui-Template&theme=dark)](https://github.com/slightlee/layui-Template)
 
+
+
+<!-- GitHub Activity Graph 每日提交记录-->
+<!---
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=slightlee&theme=xcode" /></div>
+--->
