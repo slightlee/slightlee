@@ -8,29 +8,20 @@
 slightlee/slightlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
-<a href="https://github.com/slightlee">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=slightlee&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/slightlee">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slightlee&layout=compact" />
-</a>
+<!-- GitHub Activity Graph -->
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=slightlee&theme=xcode" /></div>
 
 --->
 
-<!-- GitHub Activity Graph -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=slightlee&theme=xcode" /></div>
 
 <div align="center">
     <a href="https://github.com/slightlee">
         <img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=slightlee&show_icons=truee&include_all_commits=true&theme=dark"/>
     </a>
     <a href="https://github.com/slightlee">
-        <img align="right" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slightlee&layout=compact&show_icons=truee&include_all_commits=true&theme=dark&card_width=230"/>
+        <img align="right" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slightlee&layout=compact&show_icons=truee&include_all_commits=true&theme=dark&card_width=350"/>
     </a>
 </div>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slightlee&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slightlee&repo=springboot-demo&theme=dark)](https://github.com/slightlee/springboot-demo)
@@ -38,6 +29,3 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slightlee&repo=cloud-demo&theme=dark)](https://github.com/slightlee/cloud-demo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slightlee&repo=layui-Template&theme=dark)](https://github.com/slightlee/layui-Template)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slightlee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
