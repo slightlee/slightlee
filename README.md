@@ -21,5 +21,6 @@
 <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
+<!-- 提交统计 -->
 <img src="https://github-readme-stats.vercel.app/api?username=slightlee&show_icons=true&count_private=true" alt="slightlee" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=slightlee.slightlee" alt="visitors"></p>
+
