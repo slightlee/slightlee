@@ -1,0 +1,22 @@
+{
+  "name": "slightlee",
+  "version": "1.0.0",
+  "description": "<img align=\"right\" src=\"https://github.com/slightlee/slightlee/blob/main/code.gif\" alt=\"code\" width=\"325\" height=\"280\">\r <h2>⚡️ A Few Quick Facts</h2>\r <ul>\r <li>🔭 大家好，我是明天，一名软件开发工程师</li>\r </ul>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slightlee/slightlee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slightlee/slightlee/issues"
+  },
+  "homepage": "https://github.com/slightlee/slightlee#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
