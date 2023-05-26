@@ -5,7 +5,8 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 0 1 * * ?'  #每天凌晨1点执行一次
+    # UTC 时间 0 点运行一次
+    - cron: '0 0 * * *'
 
 jobs:
   build:
