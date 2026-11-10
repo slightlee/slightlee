@@ -10,7 +10,7 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
  */
 let DATA = {
     name: '明天',
-    occupation: '一位代码爱好者',
+    username: 'slightlee',
     date: new Date().toLocaleString('zh-CN', {
         year: 'numeric',
         month: '2-digit',
